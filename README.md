@@ -172,23 +172,6 @@ Model performance was evaluated using:
 
 ---
 
-# Repository Structure
-
-```bash
-├── data_preprocessing/
-├── recurrence_plot_generation/
-├── hfd_feature_extraction/
-├── simclr_pretraining/
-├── model_training/
-├── fusion_models/
-├── evaluation/
-├── notebooks/
-├── results/
-└── saved_models/
-```
-
----
-
 # Research Contributions
 - Developed a multimodal AI framework for MSIMI classification
 - Combined nonlinear signal analysis with deep learning workflows
